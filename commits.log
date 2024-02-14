@@ -1,0 +1,98 @@
+commit 31ae5bb79f2cd8526a589357e5c33cc62a64c254
+Author: Luzmi Gil <luzgil2002@gmail.com>
+Date:   Tue Feb 13 17:59:11 2024 -0600
+
+    agregando 2 parrafo
+
+commit 31afaa12d8bde13e8982c8b3bf6fa9a101c5eba4
+Merge: 5f27ee6 8cdf1ce
+Author: Luzmi Gil <luzgil2002@gmail.com>
+Date:   Tue Feb 13 17:56:09 2024 -0600
+
+    Resolviendo conflicto en estaciones de año con fecha de inicio
+
+commit 5f27ee66b23066470ee6bf350857877bcc933b89
+Author: Luzmi Gil <luzgil2002@gmail.com>
+Date:   Tue Feb 13 17:28:01 2024 -0600
+
+    Agregando estaciones de año con fecha de inicio
+
+commit 8cdf1cece6c658a0edbdc6728d7f3358ebaa8652
+Author: Luzmi Gil <luzgil2002@gmail.com>
+Date:   Tue Feb 13 17:28:01 2024 -0600
+
+    Agregando las estaciones del año
+
+commit e1a588d4a76334f3e3f268e8f6f39e76b251c28a
+Merge: 23778c6 34813a7
+Author: Luzmi Gil <luzgil2002@gmail.com>
+Date:   Tue Feb 13 13:01:17 2024 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 34813a78ef72293cea6478032b8aeaafe8b033d7
+Author: Luzmi Gil <luzgil2002@gmail.com>
+Date:   Tue Feb 13 12:54:44 2024 -0600
+
+    Agregando index.js al index.html
+
+commit 23778c6cda60d0813782a37e403c0dc4d83d55c2
+Author: Luzmi Gil <luzgil2002@gmail.com>
+Date:   Tue Feb 13 12:49:58 2024 -0600
+
+    Agregando style.css al html.css
+
+commit c0b59308c374f9033426ed42aaa88a00df54f872
+Merge: 9a51c0f 3da2b90
+Author: Luzmi Gil <luzgil2002@gmail.com>
+Date:   Tue Feb 13 12:33:36 2024 -0600
+
+    Merge branch 'js'
+
+commit 3da2b904952b30ee777c142bab94c93e5194cabf
+Author: Luzmi Gil <luzgil2002@gmail.com>
+Date:   Tue Feb 13 12:16:04 2024 -0600
+
+    Creando index.js
+
+commit 9a51c0f4842a6395fa457a1817775d88520c1ccb
+Author: Luzmi Gil <luzgil2002@gmail.com>
+Date:   Tue Feb 13 12:09:55 2024 -0600
+
+    Creando style.css
+
+commit d6e100df0cd62d22ce6a70f24a8fbb94677d35e7
+Author: Luzmi Gil <luzgil2002@gmail.com>
+Date:   Tue Feb 13 11:56:32 2024 -0600
+
+    Creando index.html
+
+commit 976dbf90ec6de369ca393daefc555410cf8e6b0f
+Author: Luzmi Gil <luzgil2002@gmail.com>
+Date:   Thu Feb 8 22:24:16 2024 -0600
+
+    Ignorando archivos de -exe
+
+commit fe59204e9411b70e5b81e0430447a052e8f08b24
+Author: LuzmiG <134455677+LuzmiG@users.noreply.github.com>
+Date:   Thu Feb 8 21:46:33 2024 -0600
+
+    Creando Licencia del repositorio
+
+commit 44d1e53b0876dcf0437f20ee957472086272dded
+Author: Luzmi Gil <luzgil2002@gmail.com>
+Date:   Wed Feb 7 21:46:21 2024 -0600
+
+    Agregando mas contenido al Readme
+
+commit 6513cb6a71de6be7fd4291f524e02ee3f3d1e218
+Author: Luzmi Gil <luzgil2002@gmail.com>
+Date:   Wed Feb 7 21:31:39 2024 -0600
+
+    Agregando contenido inicial al README
+
+commit 0010e07474befd2f13c7cfca4fb2cba9447963b2
+Author: Luzmi Gil <luzgil2002@gmail.com>
+Date:   Wed Feb 7 21:26:30 2024 -0600
+
+    Primer commit
