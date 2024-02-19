@@ -1,0 +1,43 @@
+Primero 
+1. Se crea un nuevo repositorio en GibHub
+1.5 Abrimos GIT desde la carpeta donde se encuentra el archivo 
+
+2. git init
+3.git remote add origin "link que tiene el repositorio"
+= git remote add origin https://github.com/LuzmiG/ProyectoGaraje_Arduino.git
+4. git status = para ver los archivos de la carpeta estos debemos verlos de color ROJO
+5. git add *
+6. git status = Ahora deben de aparecer los archivos de color verde
+7. git commit -m "primera subida"
+8. git push origin master
+
+---------------------------
+Colaborador
+VIDEO https://youtu.be/G_zKrG2mkrg
+
+1. Entrar en la carpeta vacia de preferencia
+2. Se entra en Git bash
+3. git clone https://github.com/LuzmiG/ProyectoGaraje_Arduino.git
+
+
+
+echo "# ProyectoGaraje_Arduino" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/LuzmiG/ProyectoGaraje_Arduino.git
+git push -u origin main
+
+-----------------------
+…or push an existing repository from the command line
+git remote add origin https://github.com/LuzmiG/ProyectoGaraje_Arduino.git
+git branch -M main
+git push -u origin main
+
+------------------------
+
+
+
+
+SI NO FUNCIONA CON git add . = USAR git add *
